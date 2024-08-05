@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @jjbx-afk
-- 👀 I’m interested in learning programming
-- 🌱 I’m currently trying to learn Python
+- 👀 I’m interested in web dev
+- 🌱 I’m currently working as an apprentice for Liip 
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: I'm very lost 
+- ⚡ Fun fact: I'm new here
 
 <!---
 jjbx-afk/jjbx-afk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
