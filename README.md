@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jjbx-afk
 - 👀 I’m interested in web dev
-- 🌱 I’m currently working as an apprentice for Liip 
+- 🌱 I’m currently an Apprentice IT in Lausanne
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I'm new here
 
